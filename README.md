@@ -1,3 +1,4 @@
 # pratham.demo
 my first git repo
-author - pratham
+author - pratham bajpai
+
